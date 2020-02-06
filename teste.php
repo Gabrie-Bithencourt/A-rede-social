@@ -1,1 +1,2 @@
-<?php echo "teste de compartilhamento"; ?>
+<?php echo "teste de compartilhamento"; 
+echo "copiado ";?>
